@@ -1,6 +1,10 @@
 import React from 'react';
 import "../styles/Navbar.css";
+// import resume from "./resume2020.pdf"
+// import { Document, Page } from 'react-pdf';
 import { Link, useLocation } from "react-router-dom";
+
+// const resume = [resume];
 
 function Navbar() {
 
@@ -26,7 +30,7 @@ function Navbar() {
                     </li>
                     <li className="nav-item">
                         <Link 
-                        to="/resume" className="nav-link" href="../../public/images/R.Flanagan Resume 2020.pdf">
+                        to="/resume" target= "_blank" rel="noreferrer" className="nav-link" href="./components/resume2020.pdf">
                             Resume
                         </Link>
                     </li>

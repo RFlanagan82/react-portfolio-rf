@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "alt": "githubicon",
+        "url": "https://github.com/RFlanagan82",
+        "img": "github"
+    },
+    {
+        "id": 2,
+        "alt": "emailicon",
+        "url": "mailto: flanagan.ryan@gmail.com",
+        "img": "email"
+    },
+    {
+        "id": 3,
+        "alt": "linkedinicon",
+        "url": "https://www.linkedin.com/in/ryanflanagan82/",
+        "img": "linkedin"
+    }
+]
