@@ -1,7 +1,5 @@
 import React from 'react';
 import "../styles/Navbar.css";
-// import resume from "./resume2020.pdf"
-// import { Document, Page } from 'react-pdf';
 import { Link, useLocation } from "react-router-dom";
 
 // const resume = [resume];

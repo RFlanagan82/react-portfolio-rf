@@ -1,7 +1,7 @@
 import React from 'react';
-import github from "./github_icon.png";
-import linkedin from "./linkedin.jpg";
-import email from "./emailicon.png";
+import github from "../images/github_icon.png";
+import linkedin from "../images/linkedin.jpg";
+import email from "../images/emailicon.png";
 
 const images = {
     github, linkedin, email

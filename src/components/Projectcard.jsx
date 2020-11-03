@@ -1,10 +1,10 @@
 import React from 'react'
-import cultourist from "./cultourist-main.png";
-import burger from "./burger.png";
-import roster from "./team.png";
-import workdayscheduler from "./scheduler.png";
-import exercise from "./get_last_workout_copy.png";
-import readme from "./readme_generator";
+import cultourist from "../images/cultourist-main.png";
+import burger from "../images/burger.png";
+import roster from "../images/team.png";
+import workdayscheduler from "../images/scheduler.png";
+import exercise from "../images/get_last_workout copy.png";
+import readme from "../images/readme_generator.png";
 
 const images = {
     cultourist, burger, roster, workdayscheduler, exercise, readme
@@ -13,7 +13,7 @@ const images = {
 function Projectcard(props) {
     return (
      <>
-        <div className="card" style="width: 18rem;">
+        <div className="card" style={{width: "18rem"}}>
             <img src={images[props.img]} className="card-img-top" alt={props.alt} />
             <div className="card-body">
             <h5 className="card-title">{props.title}</h5>

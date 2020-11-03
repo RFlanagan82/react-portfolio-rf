@@ -6,14 +6,14 @@
 
 .ryanpic {
     margin-right:20px;
-    height:150px;
-    width:150px;
+    height:245px;
+    width:245px;
     float:left;
 }
 
 #ryanpic{
     height: 250px;
-    width: 250px;;
+    width: 250px;
 }
 
 .flexbox-item {
@@ -22,4 +22,10 @@
     margin: 20px;
     border: 2px solid #F88414;
     background-color: #FFFFFF
+}
+
+.centerhelper {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
 }

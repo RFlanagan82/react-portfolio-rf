@@ -1,14 +1,15 @@
 import React from 'react';
 import "../styles/About.css";
+import picture from "../images/picture.jpg"
 
 function About() {
     return (
     <>
-    <div className="flexbox-container aboutme">
+    <div className="flexbox-container aboutme" style={{display: "inline-block"}}>
         <div className="flexbox-item" id="ryanpic">
-        <img src="./components/picture.jpg" alt="ryanpic" />
+        <img src={picture} className={"ryanpic"} alt="ryanpic" />
     </div>
-    <div className="flexbox-item-aboutcopy">
+    <div className="flexbox-item-aboutcopy" style={{display: "inline-block"}}>
         <div className="aboutmecontent">
           <h3 className="About">My Story</h3>
             <hr />
