@@ -2,7 +2,6 @@ import React from 'react';
 import github from "./github_icon.png";
 import linkedin from "./linkedin.jpg";
 import email from "./emailicon.png";
-// import { Link } from "react-router-dom";
 
 const images = {
     github, linkedin, email
