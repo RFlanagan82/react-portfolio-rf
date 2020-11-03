@@ -1,0 +1,14 @@
+.navbar-brand {
+    color: #F88414!important;
+    font-weight: bold;
+    font-size:26px;
+}
+
+.navbar {
+    color:whitesmoke;
+    background-color: #142c4c;
+    }
+    
+.nav-link {
+    color: whitesmoke!important;
+}
