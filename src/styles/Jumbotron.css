@@ -6,4 +6,15 @@
     margin: 20px;
     border: 10px solid #F88414;
     background: #142c4c;
+}
+
+.intro {
+    background-color: #ffffff;
+}
+
+.skills {
+    position: relative;
+    color: whitesmoke!important;
+    float: right;
+    margin-top: -40px;
     }
