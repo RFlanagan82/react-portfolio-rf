@@ -1,0 +1,25 @@
+.aboutmecontent {
+    background-color:#FFFFFF;
+    padding:15px;
+    margin-bottom: 200px;
+}
+
+.ryanpic {
+    margin-right:20px;
+    height:150px;
+    width:150px;
+    float:left;
+}
+
+#ryanpic{
+    height: 250px;
+    width: 250px;;
+}
+
+.flexbox-item {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border: 2px solid #F88414;
+    background-color: #FFFFFF
+}
