@@ -1,0 +1,19 @@
+#footer {
+    margin-top: 200px;
+}
+
+.text-center {
+    position: fixed;
+    color: lightgray;
+    background-color:#606060;
+    opacity: .70;
+    bottom : 0;
+    height:50px;
+    width: 100%;
+    padding:10px;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    font-size: 20px;
+    border-top:8px solid #142c4c;
+}

@@ -1,5 +1,6 @@
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -12,8 +13,8 @@ function App() {
         <Route exact path = "/Resume" component={Resume} />
         <Route exact path = "/Portfolio" component={Portfolio} />
         <Route exact path = "/Contact" component={Contact} />
-        </Switch>
-      <Footer /> */}
+        </Switch> */}
+      <Footer />
     </div>
     </Router>
   );
