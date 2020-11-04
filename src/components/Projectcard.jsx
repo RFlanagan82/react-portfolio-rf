@@ -5,6 +5,7 @@ import roster from "../images/team.png";
 import workdayscheduler from "../images/scheduler.png";
 import exercise from "../images/get_last_workout copy.png";
 import readme from "../images/readme_generator.png";
+import "../styles/Projectcard.css";
 
 const images = {
     cultourist, burger, roster, workdayscheduler, exercise, readme
@@ -18,8 +19,8 @@ function Projectcard(props) {
             <div className="card-body">
             <h5 className="card-title">{props.title}</h5>
             <p className="card-text">{props.text}</p>
-            <a href={props.url} className="btn btn-dark">Review</a>
-            <a href={props.github}>Github</a>
+            <a href={props.url} target="_blank" rel="noreferrer" className="btn btn-dark">Review</a>
+            <a href={props.github} target="_blank" rel="noreferrer" className="btn btn-dark">Github</a>
             </div>
       </div>
      </>
