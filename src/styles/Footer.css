@@ -1,5 +1,6 @@
 #footer {
     margin-top: 10px;
+    width: 100%
 }
 
 .text-center {
@@ -16,4 +17,6 @@
     align-items: center;
     font-size: 20px;
     border-top:8px solid #142c4c;
+    margin-bottom: 0;
+    box-sizing: content-box;
 }

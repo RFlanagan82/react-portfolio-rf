@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { Document, Page } from 'react-pdf';
+import React from 'react';
 import PDF from "./resume2020.pdf"
 
 function Pdf() {

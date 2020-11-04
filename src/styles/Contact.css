@@ -1,0 +1,8 @@
+.card {
+    width: 60rem;
+}
+
+.contactform {
+    display: flex;
+    margin-top: 25px;
+}
