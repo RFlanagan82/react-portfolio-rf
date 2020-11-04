@@ -2,7 +2,7 @@ import React from 'react';
 import "../styles/Contact.css";
 import Socialbox from '../components/Socialbox';
 import socialboxjson from "../components/social.json";
-import "./Socialbox.css";
+import "../styles/Socialbox.css";
 
 
 function Contact() {
