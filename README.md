@@ -1,6 +1,6 @@
 # rfportfolionew
 
-![](./assets/new_portfolio_page.png)
+![](./src/images/react-resume-pg.png)
 
 ## Description
 The portfolio site contained in this repository has been created from the skills I've learned thus far within the Georgia Tech Coding Bootcamp - Fall 2020 cohort.

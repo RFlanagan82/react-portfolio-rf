@@ -6,7 +6,7 @@ function Pdf() {
       <div style={{display:"flex", justifyContent:"center", alignItems:"center"}}>
         <embed
             style={{display:"inline-block"}}
-            src={PDF + "#toolbar=0"}
+            iframe src={PDF + "#toolbar=0"}
             type="application/pdf"
             height={900}
             width={600}
