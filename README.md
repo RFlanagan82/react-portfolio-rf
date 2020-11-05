@@ -27,21 +27,21 @@ All of the files necessary to run this website are available in [this repository
 ## Credits & Contributions
 Thank you to TA - Peter Colella for helping me set up my props for the social box images on the home page and correct the links.
 
-Thank you to TA - Leif Hetland for helping me with some CSS and formatting issues on my footer and contact page.
+Thank you to TA - Leif Hetland for helping me with some CSS and formatting issues on my footer and contact page. He also helped me troubleshoot my resume page issues mentioned in the challenges section.
 
 Thanks to my tutor for helping me with some of my path issues and fixing the architecture of my react app.
 
 ## Challenges
 
-On the local server I can get my resume to populate in the page as shown here...
+On the local server I could get my resume to populate in the page as shown here...
 
 ![](./src/images/resume_on_local.png)
 
-But when I get it loaded and go to the Resume page I get a 404.
+But when I got it loaded on my Github Resume page I got a 404.
 
 ![](./src/images/resume_page-404.png).
 
-Troubleshooted but unable to fix yet.
+After troubleshooting, I found that the issue was in my Navbar.jsx where I was linking to the pdf itself and not using 'location.pathname === "/resume".
 
 
 ## Resources
