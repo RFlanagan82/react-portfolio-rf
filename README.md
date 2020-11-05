@@ -1,4 +1,4 @@
-# rfportfolionew
+# react-portfolio-rf
 
 ![](./assets/new_portfolio_page.png)
 
