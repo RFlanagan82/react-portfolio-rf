@@ -1,8 +1,7 @@
 import React from 'react';
-import PDF from "./resume2020.pdf"
+import PDF from "./resume2020.pdf";
 
 function Pdf() {
-   
     return (
       <div style={{display:"flex", justifyContent:"center", alignItems:"center"}}>
         <embed
