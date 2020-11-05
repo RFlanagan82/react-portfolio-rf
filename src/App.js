@@ -13,13 +13,13 @@ function App() {
     <Router basename={process.env.PUBLIC_URL} >
     <div>
       <Navbar />
-        <Switch>
+        {/* <Switch> */}
         <Route exact path = "/" component={Home} />
         <Route exact path = "/About" component={About} />
         <Route exact path = "/Resume" component={Pdf} />
         <Route exact path = "/Portfolio" component={Portfolio} />
         <Route exact path = "/Contact" component={Contact} />
-        </Switch>
+        {/* </Switch> */}
       <Footer />
     </div>
     </Router>

@@ -28,7 +28,7 @@ function Navbar() {
                     </li>
                     <li className="nav-item">
                         <Link 
-                        to="/resume" target= "_blank" rel="noreferrer" className="nav-link" href="./components/resume2020.pdf">
+                        to="/resume" className="nav-link" href={location.pathname === "/resume" ? "nav-link active" : "nav-link"}>
                             Resume
                         </Link>
                     </li>
