@@ -1,4 +1,4 @@
-# rfportfolionew
+# react-portfolio-rf
 
 ![](./src/images/react-resume-pg.png)
 
