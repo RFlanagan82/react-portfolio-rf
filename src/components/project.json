@@ -1,15 +1,24 @@
 [
     {
         "id": 1,
+        "title": "Game Knight",
+        "text": "This is a full stack MERN scheduling app that helps users browse or host - virtual or in-person - game events.",
+        "alt": "gameknight_app",
+        "img": "gameknight",
+        "url": "https://gameknight-app.herokuapp.com/",
+        "github": "https://github.com/RFlanagan82/gameknight"     
+    },
+    {
+        "id": 2,
         "title": "CulTourist",
-        "text": "This application takes in user comments about the culture, scams, slang, and nuances of a particular country to help future travelers be informed while abroad.",
+        "text": "This full CRUD-based application takes in user comments about the culture, scams, slang, and nuances of a particular country to help future travelers be informed while abroad.",
         "alt": "cultourist-app",
         "img": "cultourist",
         "url": "https://cultourist.herokuapp.com/",
         "github": "https://github.com/RFlanagan82/cultourist_app"    
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Eat-Da-Burger App",
         "text": "This is burger logger app with MySQL, Node, Express, Handlebars and a homemade ORM (yum!)",
         "alt": "burgerapp",
@@ -18,22 +27,13 @@
         "github": "https://github.com/RFlanagan82/eat-da-burger-app"     
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Employee Team Roster",
         "text": "This is a team generator command line app that prompts the user to create a team roster and prints to a new website.",
         "alt": "expressteambuilder",
         "img": "roster",
         "url": "https://drive.google.com/file/d/1tvE6aTl9xUIEOJMt8e1oy_r60CRwq02Y/view",
         "github": "https://github.com/RFlanagan82/employee-template-engine"     
-    },
-    {
-        "id": 4,
-        "title": "Work Day Scheduler",
-        "text": "This is a simple JS calendar app that allows users to save events for each hour of the day.",
-        "alt": "workdayscheduler",
-        "img": "workdayscheduler",
-        "url": "https://rflanagan82.github.io/Work-Day-Scheduler/",
-        "github": "https://github.com/RFlanagan82/Work-Day-Scheduler"     
     },
     {
         "id": 5,

@@ -2,13 +2,13 @@ import React from 'react'
 import cultourist from "../images/cultourist-main.png";
 import burger from "../images/burger.png";
 import roster from "../images/team.png";
-import workdayscheduler from "../images/scheduler.png";
+import gameknight from "../images/gameknight_home.png";
 import exercise from "../images/get_last_workout copy.png";
 import readme from "../images/readme_generator.png";
 import "../styles/Projectcard.css";
 
 const images = {
-    cultourist, burger, roster, workdayscheduler, exercise, readme
+    gameknight, cultourist, burger, roster, exercise, readme
 }
 
 function Projectcard(props) {
