@@ -9,7 +9,7 @@ function Portfolio() {
             <div className="row">
                 {projectjson.map(card => (
                     <Projectcard {...card}
-                    key={projectjson.id} />
+                    key={card.id} />
                 ))}
             </div>
         </div>

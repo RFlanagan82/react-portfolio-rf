@@ -11,7 +11,7 @@ function Home() {
         <div className="flexbox-container socialbox">
             {socialboxjson.map(box => (
                 <Socialbox {...box}
-                key={socialboxjson.id} 
+                key={box.id} 
                 />
             ))}
         </div>
