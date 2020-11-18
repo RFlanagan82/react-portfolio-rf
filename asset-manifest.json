@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/react-portfolio-rf/static/css/main.24ba96d3.chunk.css",
-    "main.js": "/react-portfolio-rf/static/js/main.86e87180.chunk.js",
-    "main.js.map": "/react-portfolio-rf/static/js/main.86e87180.chunk.js.map",
+    "main.js": "/react-portfolio-rf/static/js/main.f8d6130c.chunk.js",
+    "main.js.map": "/react-portfolio-rf/static/js/main.f8d6130c.chunk.js.map",
     "runtime-main.js": "/react-portfolio-rf/static/js/runtime-main.2e8dc196.js",
     "runtime-main.js.map": "/react-portfolio-rf/static/js/runtime-main.2e8dc196.js.map",
-    "static/js/2.41d749af.chunk.js": "/react-portfolio-rf/static/js/2.41d749af.chunk.js",
-    "static/js/2.41d749af.chunk.js.map": "/react-portfolio-rf/static/js/2.41d749af.chunk.js.map",
+    "static/js/2.33db1763.chunk.js": "/react-portfolio-rf/static/js/2.33db1763.chunk.js",
+    "static/js/2.33db1763.chunk.js.map": "/react-portfolio-rf/static/js/2.33db1763.chunk.js.map",
     "static/js/3.1d181ffe.chunk.js": "/react-portfolio-rf/static/js/3.1d181ffe.chunk.js",
     "static/js/3.1d181ffe.chunk.js.map": "/react-portfolio-rf/static/js/3.1d181ffe.chunk.js.map",
     "index.html": "/react-portfolio-rf/index.html",
     "static/css/main.24ba96d3.chunk.css.map": "/react-portfolio-rf/static/css/main.24ba96d3.chunk.css.map",
-    "static/js/2.41d749af.chunk.js.LICENSE.txt": "/react-portfolio-rf/static/js/2.41d749af.chunk.js.LICENSE.txt",
+    "static/js/2.33db1763.chunk.js.LICENSE.txt": "/react-portfolio-rf/static/js/2.33db1763.chunk.js.LICENSE.txt",
     "static/media/burger.2b19e82b.png": "/react-portfolio-rf/static/media/burger.2b19e82b.png",
     "static/media/cultourist-main.2e281e92.png": "/react-portfolio-rf/static/media/cultourist-main.2e281e92.png",
     "static/media/emailicon.1129c525.png": "/react-portfolio-rf/static/media/emailicon.1129c525.png",
+    "static/media/gameknight_home.2ef0b29e.png": "/react-portfolio-rf/static/media/gameknight_home.2ef0b29e.png",
     "static/media/get_last_workout copy.b41c3cca.png": "/react-portfolio-rf/static/media/get_last_workout copy.b41c3cca.png",
+    "static/media/google_books_library.d528d9f4.png": "/react-portfolio-rf/static/media/google_books_library.d528d9f4.png",
     "static/media/picture.3908a401.jpg": "/react-portfolio-rf/static/media/picture.3908a401.jpg",
-    "static/media/readme_generator.627559fd.png": "/react-portfolio-rf/static/media/readme_generator.627559fd.png",
     "static/media/resume2020.3fd9bb30.pdf": "/react-portfolio-rf/static/media/resume2020.3fd9bb30.pdf",
-    "static/media/scheduler.73f99918.png": "/react-portfolio-rf/static/media/scheduler.73f99918.png",
     "static/media/team.feb20bac.png": "/react-portfolio-rf/static/media/team.feb20bac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2e8dc196.js",
-    "static/js/2.41d749af.chunk.js",
+    "static/js/2.33db1763.chunk.js",
     "static/css/main.24ba96d3.chunk.css",
-    "static/js/main.86e87180.chunk.js"
+    "static/js/main.f8d6130c.chunk.js"
   ]
 }
