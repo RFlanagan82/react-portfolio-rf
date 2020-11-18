@@ -8,7 +8,8 @@ function Portfolio() {
         <div className="container portfoliobox">
             <div className="row">
                 {projectjson.map(card => (
-                    <Projectcard {...card} />
+                    <Projectcard {...card}
+                    key={projectjson.id} />
                 ))}
             </div>
         </div>

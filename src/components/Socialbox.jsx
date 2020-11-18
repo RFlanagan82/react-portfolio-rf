@@ -23,7 +23,7 @@ function Socialbox(props) {
     <>
         <div style={styles.socialboxSize} className="flexbox-item">
         <a target="_blank" rel="noreferrer" href={props.url} >
-        <img style={styles.images} src={images[props.img]} alt={props.alt} />
+        <img style={styles.images} src={images[props.img]} alt={props.alt}/>
         </a>
         </div>
     </>

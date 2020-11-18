@@ -22,7 +22,7 @@ function Navbar() {
                 <ul className="navbar-nav ml-auto navbarelements">
                     <li className="nav-item active">
                         <Link 
-                        to="/about" className="nav-link" href={location.pathname === "/about" ? "nav-link active" : "nav-link"} tabindex="-1" aria-disabled="true">
+                        to="/about" className="nav-link" href={location.pathname === "/about" ? "nav-link active" : "nav-link"} tabIndex="-1" aria-disabled="true">
                             About
                         </Link>
                     </li>

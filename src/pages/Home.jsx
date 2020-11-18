@@ -10,7 +10,9 @@ function Home() {
         <Jumbotron />
         <div className="flexbox-container socialbox">
             {socialboxjson.map(box => (
-                <Socialbox {...box} />
+                <Socialbox {...box}
+                key={socialboxjson.id} 
+                />
             ))}
         </div>
         </>

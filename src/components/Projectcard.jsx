@@ -4,11 +4,11 @@ import burger from "../images/burger.png";
 import roster from "../images/team.png";
 import gameknight from "../images/gameknight_home.png";
 import exercise from "../images/get_last_workout copy.png";
-import readme from "../images/readme_generator.png";
+import books from "../images/google_books_library.png"
 import "../styles/Projectcard.css";
 
 const images = {
-    gameknight, cultourist, burger, roster, exercise, readme
+    gameknight, cultourist, burger, roster, exercise, books
 }
 
 function Projectcard(props) {
