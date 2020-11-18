@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Fitness Tracker",
-        "text": "This is a workout tracker app that utilizes MongoDB and routes with Express.",
+        "text": "This is a PWA workout tracker app that utilizes MongoDB and routes with Express.",
         "alt": "workouttracker_nosql",
         "img": "exercise",
         "url": "https://workout-tracker-nosql-app.herokuapp.com/",
