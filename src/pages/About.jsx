@@ -20,7 +20,7 @@ function About() {
                 </p>
                 <p>I've utilized my skills as a member of a high-powered development team to create a user-seeding travel resource app called CulTourist. It integrates custom helpers using Express-Handlebars, full CRUD Routes, is supported by a custom built JAWSDB database with MySQL and Sequelize ORM, and pulls in 3rd party API data from RESTCountries.Eu. 
                   
-                We've also created a dynamic game scheduling full stack app called Game Knight, which is a full-stack MERN application that incorporates JSON web tokens for authentication, multiple npm packages such as: bcrypt, REACT - Slick, REACT - Datepicker, and REACT - Bootstrap.
+                We've also created a dynamic game scheduling full-stack app called Game Knight, which is a full-stack MERN application that incorporates JSON web tokens for authentication, multiple npm packages such as: bcrypt, REACT - Slick, REACT - Datepicker, and REACT - Bootstrap.
                 
                 I am ready to put my powerful blend of soft and technical skills to use as part of a value driven, innovative, web-development team.
                 </p>
