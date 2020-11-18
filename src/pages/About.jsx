@@ -14,13 +14,13 @@ function About() {
           <h3 className="About">My Story</h3>
             <hr />
                 <p>I'm a full-stack engineer from Smyrna, Georgia - leveraging product, marketing, and tech-startup entrepreneurship experience to create digital experiences that delight and inspire.</p>
-                <p>Recently enrolled in the Georgia Tech Full-Stack Coding Bootcamp, Fall 2020 cohort; I have an array of new technical skills to include: HTML, CSS, JavaScript, jQuery, Node.js, AJAX, MySQL, Express-Handlebars, and JSON.
+                <p>As a graduate of the Georgia Tech Full-Stack Coding Bootcamp, Fall 2020 cohort; I have an array of technical skills to include: HTML, CSS, JavaScript, jQuery, Node.js, AJAX, MySQL, Express-Handlebars, React.js, Mongo, and JSON.
                 </p>
                 <p>Peers agree that I have a real knack for understanding complex concepts and seeing through to the root of an issue. In each new application, I invest myself fully to writing clean and understandable code with a focus on the clients’ side usability and UI.
                 </p>
-                <p>I've utilized my newfound skills to help a team of four create a client side application that implemented multiple client-side AJAX calls to harmonize job search data with apartment rental data based on user inputs. 
-                    
-                Another highlight was in creating a user-seeding travel resource app called CulTourist. It integrates custom helpers using Express-Handlebars, full CRUD Routes, is supported by a custom built JAWSDB database with MySQL and Sequelize ORM, as well as pulling in 3rd party API data from RESTCountries.Eu. 
+                <p>I've utilized my skills as a member of a high-powered development team to create a user-seeding travel resource app called CulTourist. It integrates custom helpers using Express-Handlebars, full CRUD Routes, is supported by a custom built JAWSDB database with MySQL and Sequelize ORM, and pulls in 3rd party API data from RESTCountries.Eu. 
+                  
+                We've also created a dynamic game scheduling full stack app called Game Knight, which is a full-stack MERN application that incorporates JSON web tokens for authentication, multiple npm packages such as: bcrypt, REACT - Slick, REACT - Datepicker, and REACT - Bootstrap.
                 
                 I am ready to put my powerful blend of soft and technical skills to use as part of a value driven, innovative, web-development team.
                 </p>
