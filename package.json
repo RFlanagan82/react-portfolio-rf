@@ -2,7 +2,7 @@
   "name": "react-portfolio-rf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "RFlanagan82.github.io",
+  "homepage": "https://RFlanagan82.github.io/react-portfolio-rf",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
