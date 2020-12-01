@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Employee Team Roster",
-        "text": "This is a team generator command line app that prompts the user to create a team roster and prints to a new website.",
+        "text": "This is a team generator command line and test driven development based app that prompts the user to create a team roster and prints to a new website. It utilizes Node.js, Javascript, and the Inquirer NPM package.",
         "alt": "expressteambuilder",
         "img": "roster",
         "url": "https://drive.google.com/file/d/1tvE6aTl9xUIEOJMt8e1oy_r60CRwq02Y/view",
