@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Game Knight",
-        "text": "This is a full stack MERN scheduling app designed with React-Bootstrap that helps users browse or host - virtual or in-person - game events.",
+        "text": "This is a full MERN stack event scheduling app designed with React-Bootstrap styling that helps users browse or host - virtual or in-person - game meetups.",
         "alt": "gameknight_app",
         "img": "gameknight",
         "url": "https://gameknight-app.herokuapp.com/",

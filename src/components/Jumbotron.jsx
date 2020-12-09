@@ -15,7 +15,7 @@ function Jumbotron() {
           </div>
           <p className="skills">
             HTML5 | CSS3 | JavaScript | React.js | jQuery | MySQL | MongoDB |
-            Node.js
+            Node.js | Express.js
           </p>
         </div>
       </>
