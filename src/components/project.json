@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Game Knight",
-        "text": "This is a full stack MERN scheduling app that helps users browse or host - virtual or in-person game events.",
+        "text": "This is a full stack MERN scheduling app designed with React-Bootstrap that helps users browse or host - virtual or in-person - game events.",
         "alt": "gameknight_app",
         "img": "gameknight",
         "url": "https://gameknight-app.herokuapp.com/",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "CulTourist",
-        "text": "This full CRUD-based application takes in user comments about the culture, scams, slang, and nuances of a particular country to help future travelers be informed while abroad.",
+        "text": "This full CRUD-based application utilizing MySQL, Node.js, and Express which takes in user comments about the culture of a particular country to help future travelers be informed while abroad.",
         "alt": "cultourist-app",
         "img": "cultourist",
         "url": "https://cultourist.herokuapp.com/",
