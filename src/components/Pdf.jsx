@@ -1,11 +1,11 @@
 import React from 'react';
-import PDF from "./resume2020.pdf";
+import PDF from "./resume2021.pdf";
 
 function Pdf() {
     return (
       <div style={{display:"flex", justifyContent:"center", alignItems:"center"}}>
         <embed
-            style={{display:"inline-block"}}
+            style={{display:"inline"}}
             iframe src={PDF + "#toolbar=0"}
             type="application/pdf"
             height={900}
